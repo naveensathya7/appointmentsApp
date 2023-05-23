@@ -1,0 +1,54 @@
+/* Write your CSS here */
+.bg-container {
+  background-image: linear-gradient(to bottom, #fbc7d4, #9796f0);
+  padding: 100px;
+  padding-top: 50px;
+  height: 100vh;
+}
+.appointment-container {
+  width: 100%;
+  background-color: white;
+  border-radius: 8px;
+}
+.details {
+  display: flex;
+  flex-direction: row;
+}
+.label {
+  color: #b5b7c4;
+  font-size: 10px;
+  font-weight: 600;
+}
+.title {
+  border-radius: 2px;
+  border: 1px solid #b5b7c4;
+  margin-bottom: 5px;
+  width: 250px;
+  height: 30px;
+  padding: 10px;
+}
+
+.add-button {
+  border-radius: 5px;
+  background-color: #8b5cf6;
+  color: #ffffff;
+  padding: 5px;
+  width: 50px;
+  border: none;
+  outline: none;
+  cursor: pointer;
+  margin-top: 20px;
+}
+.appointment {
+  width: 700px;
+  padding: 30px;
+}
+.image {
+  margin-top: 30px;
+  margin-bottom: 20px;
+}
+.line {
+  width: 95%;
+}
+.unordered-list {
+}

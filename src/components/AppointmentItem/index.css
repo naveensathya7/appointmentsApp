@@ -1,0 +1,27 @@
+/* Write your CSS here */
+.appointment-item {
+  border-radius: 5px;
+  border: 1px solid #b5b7c4;
+  width: 250px;
+  padding: 10px;
+  padding-top: 5px;
+  padding-bottom: 5px;
+}
+.topline {
+  display: flex;
+  justify-content: space-between;
+  align-items: flex-start;
+  margin-bottom: 0px;
+}
+.star {
+  height: 30px;
+  width: 30px;
+  background-color: transparent;
+  background: transparent;
+  border: none;
+  outline: none;
+  align-self: center;
+}
+.date {
+  margin-top: 5px;
+}
